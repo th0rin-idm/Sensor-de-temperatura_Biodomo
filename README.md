@@ -1,2 +1,2 @@
 # Biodomo
-Temperature sensor using arduino and python
+Codigo para sensor de temperatura y graficas referentes a la información mostrada con Python y Arduino.
